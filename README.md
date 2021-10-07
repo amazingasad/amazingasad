@@ -1,4 +1,4 @@
-<h1 align="center">Hi there�9�9, I'm Asad Islam</h1>
+<h1 align="center">Hi there” 🖐️, I'm Asad Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amazingasad&label=Profile%20views&color=0e75b6&style=flat" alt="amazingasad" /> </p>
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/amazingasad124" target="blank"><img src="https://img.shields.io/twitter/follow/amazingasad124?logo=twitter&style=for-the-badge" alt="amazingasad124" /></a> </p>
 
-- �9�5 I��m currently working on a new project **BOOM ( Private Project )**
+- ”9ç5 I¡¯m currently working on a new project **BOOM ( Private Project )**
 
-- �9�7 I��m currently learning **ReactJs , NodeJs**
+- ”9´7 I¡¯m currently learning **ReactJs , NodeJs**
 
-- �9�8�6�9�9�1 My portfolio Website [https://www.in-asad.com](https://www.in-asad.com)
+- ”9Ó86¤9”9Ü1 My portfolio Website [https://www.in-asad.com](https://www.in-asad.com)
 
-- �9�5 I regularly write articles on [blog.in-asad.com](blog.in-asad.com)
+- ”9ß5 I regularly write articles on [blog.in-asad.com](blog.in-asad.com)
 
-- �9�6 Ask me about **HTML , CSS , Vanilla JavaScript**
+- ”9Ú6 Ask me about **HTML , CSS , Vanilla JavaScript**
 
-- �9�9 How to reach me **me@in-asad.com**
+- ”9à9 How to reach me **me@in-asad.com**
 
-- �7�3 Fun fact **I love cycling and travelling**
+- 7²3 Fun fact **I love cycling and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
