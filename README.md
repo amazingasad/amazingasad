@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio Website [https://www.in-asad.com](https://www.in-asad.com)
 
-- 📝 I regularly write articles on [blog.in-asad.com](blog.in-asad.com)
+- 📝 I regularly write articles on [https://blog.in-asad.com](https://blog.in-asad.com)
 
 - 💬 Ask me about **HTML , CSS , Vanilla JavaScript**
 
